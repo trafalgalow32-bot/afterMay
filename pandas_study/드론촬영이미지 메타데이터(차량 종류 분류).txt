@@ -1,0 +1,48 @@
+{
+    "info": {
+        "name": 학습데이터명,
+        "description": 데이터 설명,
+        "url": 접속경로,
+        "기관명": 한국도로공사
+    },
+    "images": [
+        {
+            "id": "파일ID",
+            "width": 이미지 너비,
+            "height": 이미지 높이,
+            "file_name": 파일명,
+            "day": 주/야간구분,
+            "type": 카메라 촬영 타입,
+            "resolution": "해상도",
+            "bit": 색상 정밀도
+            "size_bytes": 파일크기
+        }
+    ],
+    "annotations": [
+        {
+            "labelingcount": 객체수
+        },
+        {
+            "id": 객체번호,
+            "category_id": 객체 분류번호,
+            "category_name": 객체분류명,
+            "bbox": [
+                [
+                    x1,
+                    y1
+                ],
+                [
+                    x2,
+                    y2
+                ]
+            ],
+            "segmentation": 세그멘테이션여부
+        }
+    ],
+    "license": [
+        {
+            "name": 구축기관
+            "copyright": 저작권 소유
+        }
+    ]
+}

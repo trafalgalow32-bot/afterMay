@@ -1,0 +1,241 @@
+{
+    "info": {
+        "name": "expressway",
+        "description": "EX-드론 고속도로 촬영 이미지",
+        "url": "https://data.ex.co.kr/",
+        "기관명": "한국도로공사"
+    },
+    "images": [
+        {
+            "id": "012_000003",
+            "width": 1920,
+            "height": 1080,
+            "file_name": "012_000003.jpg",
+            "day": "day",
+            "type": "RGB",
+            "resolution": "1920 x 1080",
+            "bit": 24,
+            "size_bytes": 648029
+        }
+    ],
+    "annotations": [
+        {
+            "labelingcount": 13
+        },
+        {
+            "id": "1",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    750.0,
+                    1.000079999999997
+                ],
+                [
+                    156.0,
+                    129.99960000000002
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "2",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    456.0009600000001,
+                    0.9995400000000032
+                ],
+                [
+                    135.99936,
+                    74.00052
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "3",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    255.0,
+                    1.000079999999997
+                ],
+                [
+                    138.0,
+                    113.0004
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "4",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    623.00064,
+                    130.00014
+                ],
+                [
+                    140.00064,
+                    126.00036
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "5",
+            "category_id": 3,
+            "category_name": "truck",
+            "bbox": [
+                [
+                    308.76096,
+                    144.00072
+                ],
+                [
+                    165.99936,
+                    156.9996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "6",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    536.00064,
+                    281.99988
+                ],
+                [
+                    129.99936,
+                    189.0
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "7",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    932.00064,
+                    176.00004
+                ],
+                [
+                    172.99968,
+                    140.00039999999998
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "8",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    743.00064,
+                    250.00001999999998
+                ],
+                [
+                    186.0,
+                    168.99948
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "9",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1143.00096,
+                    365.99958000000004
+                ],
+                [
+                    201.99936,
+                    155.00052
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "10",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    949.00032,
+                    527.00058
+                ],
+                [
+                    218.00064,
+                    172.9998
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "11",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1120.00128,
+                    686.00034
+                ],
+                [
+                    249.99935999999997,
+                    230.00004
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "12",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1465.00032,
+                    686.0003399999999
+                ],
+                [
+                    266.00064,
+                    207.00036
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "13",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    852.0009600000001,
+                    872.0001
+                ],
+                [
+                    260.99904,
+                    208.00044
+                ]
+            ],
+            "segmentation": null
+        }
+    ],
+    "labelingcount": 13,
+    "license": [
+        {
+            "name": "한국도로공사",
+            "copyright": "한국도로공사. All rights reserved."
+        }
+    ]
+}

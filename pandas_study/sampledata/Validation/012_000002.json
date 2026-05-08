@@ -1,0 +1,289 @@
+{
+    "info": {
+        "name": "expressway",
+        "description": "EX-드론 고속도로 촬영 이미지",
+        "url": "https://data.ex.co.kr/",
+        "기관명": "한국도로공사"
+    },
+    "images": [
+        {
+            "id": "012_000002",
+            "width": 1920,
+            "height": 1080,
+            "file_name": "012_000002.jpg",
+            "day": "day",
+            "type": "RGB",
+            "resolution": "1920 x 1080",
+            "bit": 24,
+            "size_bytes": 757234
+        }
+    ],
+    "annotations": [
+        {
+            "labelingcount": 16
+        },
+        {
+            "id": "1",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    214.00032,
+                    1.000079999999997
+                ],
+                [
+                    130.99967999999998,
+                    83.00016000000001
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "2",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    402.00096,
+                    1.0000800000000005
+                ],
+                [
+                    111.99936000000001,
+                    56.00016
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "3",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    641.0006400000001,
+                    1.0006199999999978
+                ],
+                [
+                    128.00064,
+                    90.99972
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "4",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    535.00032,
+                    76.00067999999999
+                ],
+                [
+                    105.00096,
+                    103.99968000000001
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "5",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    636.0009600000001,
+                    181.99998
+                ],
+                [
+                    142.99968,
+                    141.99947999999998
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "6",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    806.0006400000001,
+                    143.0001
+                ],
+                [
+                    146.00064,
+                    114.99948
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "7",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    992.0006400000002,
+                    309.99996
+                ],
+                [
+                    168.0,
+                    128.99952
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "8",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    818.00064,
+                    420.00066000000004
+                ],
+                [
+                    175.00032000000002,
+                    143.99964
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "9",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    957.0009599999998,
+                    549.00072
+                ],
+                [
+                    192.0,
+                    182.99952000000002
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "10",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1216.00032,
+                    536.9992199999999
+                ],
+                [
+                    207.00096000000002,
+                    155.00052
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "11",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1514.9999999999998,
+                    825.00066
+                ],
+                [
+                    260.00064000000003,
+                    196.99956
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "12",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1218.00096,
+                    907.00074
+                ],
+                [
+                    262.99967999999996,
+                    168.99948
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "13",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    691.0012800000001,
+                    638.00028
+                ],
+                [
+                    188.99903999999998,
+                    193.00032
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "14",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1818.00096,
+                    430.00038000000006
+                ],
+                [
+                    99.99936,
+                    124.0002
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "15",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1711.00032,
+                    553.0004999999999
+                ],
+                [
+                    208.99968,
+                    147.99996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "16",
+            "category_id": 3,
+            "category_name": "truck",
+            "bbox": [
+                [
+                    267.52128,
+                    100.47996000000002
+                ],
+                [
+                    141.99936,
+                    128.99952
+                ]
+            ],
+            "segmentation": null
+        }
+    ],
+    "labelingcount": 16,
+    "license": [
+        {
+            "name": "한국도로공사",
+            "copyright": "한국도로공사. All rights reserved."
+        }
+    ]
+}

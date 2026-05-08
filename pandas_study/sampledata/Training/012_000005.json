@@ -1,0 +1,145 @@
+{
+    "info": {
+        "name": "expressway",
+        "description": "EX-드론 고속도로 촬영 이미지",
+        "url": "https://data.ex.co.kr/",
+        "기관명": "한국도로공사"
+    },
+    "images": [
+        {
+            "id": "012_000005",
+            "width": 1920,
+            "height": 1080,
+            "file_name": "012_000005.jpg",
+            "day": "day",
+            "type": "RGB",
+            "resolution": "1920 x 1080",
+            "bit": 24,
+            "size_bytes": 452739
+        }
+    ],
+    "annotations": [
+        {
+            "labelingcount": 7
+        },
+        {
+            "id": "1",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1737.0009599999998,
+                    1.000620000000012
+                ],
+                [
+                    182.99903999999998,
+                    224.99964
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "2",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    334.00032,
+                    0.9995399999999961
+                ],
+                [
+                    277.00032000000004,
+                    101.00052000000001
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "3",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    684.0,
+                    214.00037999999998
+                ],
+                [
+                    290.00064000000003,
+                    259.0002
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "4",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1168.00128,
+                    209.00052
+                ],
+                [
+                    350.99904,
+                    270.0
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "5",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    889.0003200000001,
+                    406.99962
+                ],
+                [
+                    357.00095999999996,
+                    336.99996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "6",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    458.00064,
+                    596.0007
+                ],
+                [
+                    396.0,
+                    412.99956
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "7",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1207.00032,
+                    879.00066
+                ],
+                [
+                    412.99967999999996,
+                    198.99972
+                ]
+            ],
+            "segmentation": null
+        }
+    ],
+    "labelingcount": 7,
+    "license": [
+        {
+            "name": "한국도로공사",
+            "copyright": "한국도로공사. All rights reserved."
+        }
+    ]
+}

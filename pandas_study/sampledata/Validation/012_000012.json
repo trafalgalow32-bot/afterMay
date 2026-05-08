@@ -1,0 +1,177 @@
+{
+    "info": {
+        "name": "expressway",
+        "description": "EX-드론 고속도로 촬영 이미지",
+        "url": "https://data.ex.co.kr/",
+        "기관명": "한국도로공사"
+    },
+    "images": [
+        {
+            "id": "012_000012",
+            "width": 1920,
+            "height": 1080,
+            "file_name": "012_000012.jpg",
+            "day": "day",
+            "type": "RGB",
+            "resolution": "1920 x 1080",
+            "bit": 24,
+            "size_bytes": 648945
+        }
+    ],
+    "annotations": [
+        {
+            "labelingcount": 9
+        },
+        {
+            "id": "1",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    399.0009599999999,
+                    0.9995400000000103
+                ],
+                [
+                    314.99904000000004,
+                    147.99996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "2",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    566.9990399999999,
+                    110.99970000000002
+                ],
+                [
+                    336.0,
+                    281.99987999999996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "3",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    318.00095999999996,
+                    444.00041999999996
+                ],
+                [
+                    346.99968,
+                    307.99980000000005
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "4",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1109.00064,
+                    32.000399999999985
+                ],
+                [
+                    370.99968,
+                    326.00016
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "5",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1282.00032,
+                    334.99980000000005
+                ],
+                [
+                    399.00096,
+                    292.99967999999996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "6",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1680.99936,
+                    609.00012
+                ],
+                [
+                    238.99968,
+                    402.99984
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "7",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    938.00064,
+                    458.00046000000003
+                ],
+                [
+                    343.00032,
+                    309.99996
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "8",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    1174.00032,
+                    725.99976
+                ],
+                [
+                    442.99967999999996,
+                    354.00024
+                ]
+            ],
+            "segmentation": null
+        },
+        {
+            "id": "9",
+            "category_id": 0,
+            "category_name": "car",
+            "bbox": [
+                [
+                    478.99968000000007,
+                    850.9995
+                ],
+                [
+                    439.00032,
+                    228.99996000000002
+                ]
+            ],
+            "segmentation": null
+        }
+    ],
+    "labelingcount": 9,
+    "license": [
+        {
+            "name": "한국도로공사",
+            "copyright": "한국도로공사. All rights reserved."
+        }
+    ]
+}

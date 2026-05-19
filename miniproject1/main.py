@@ -21,4 +21,5 @@ app.add_middleware(
 
 app.include_router(student_router.router)
 app.include_router(score_router.router)
+app.include_router(attend_router.router)
                          

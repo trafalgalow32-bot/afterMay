@@ -21,8 +21,8 @@ class ScoreResponse(BaseModel):
     java_score:int
     project_score:int
     total_score:int
-    avg_score:int
+    avg_score:float
     create_at:datetime
     
-class Config:
-    from_attributes=True
+    class Config:
+        from_attributes=True
